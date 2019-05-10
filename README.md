@@ -1,4 +1,4 @@
-# nuxt-jest
+# Nuxt-Jest sample
 
 > Nuxt jest sample config
 
@@ -8,15 +8,12 @@
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+# run tests
+$ npm test
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
+# run tests with additional config
+# updates
+$ npm test -- -u
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how this configuration, read the corresponding Medium article [Nuxt.js docs](https://nuxtjs.org).
