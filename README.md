@@ -1,6 +1,6 @@
 # Nuxt-Jest sample
 
-> Nuxt jest sample config
+> For detailed explanation on how this configuration works, read the corresponding Medium article [Nuxt.js docs](https://nuxtjs.org).
 
 ## Build Setup
 
@@ -15,5 +15,3 @@ $ npm test
 # updates
 $ npm test -- -u
 ```
-
-For detailed explanation on how this configuration, read the corresponding Medium article [Nuxt.js docs](https://nuxtjs.org).
