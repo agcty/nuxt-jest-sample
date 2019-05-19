@@ -1,6 +1,6 @@
 # Nuxt-Jest sample
 
-> For detailed explanation on how this configuration works, read the corresponding Medium article [Nuxt.js docs](https://nuxtjs.org).
+> For detailed explanation on how this configuration works, read the corresponding article on [Medium](https://medium.com/@gogl.alex/nuxt-jest-setup-from-scratch-8905d3880daa).
 
 ## Build Setup
 
