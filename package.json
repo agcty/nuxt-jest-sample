@@ -9,7 +9,7 @@
     "dev": "nuxt",
     "generate": "nuxt generate",
     "start": "nuxt start",
-    "test:unit": "vue-cli-service test:unit"
+    "test": "jest"
   },
   "dependencies": {
     "nuxt": "^2.7.1"
