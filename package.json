@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.11.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
