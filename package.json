@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.11.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
@@ -23,6 +23,6 @@
     "cross-env": "^6.0.3",
     "jest": "^24.9.0",
     "jest-serializer-vue": "^2.0.2",
-    "vue-jest": "^3.0.5"
+    "vue-jest": "^4.0.1"
   }
 }
